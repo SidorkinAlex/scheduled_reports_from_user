@@ -49,7 +49,6 @@ $installdefs = array (
   'beans' => 
   array (
   ),
-  'image_dir' => '<basepath>/icons',
   'copy' => 
   array (
     0 => 
