@@ -13701,7 +13701,6 @@ soap/SoapPortalHelper.php
 soap/SoapDeprecated.php
 soap/SoapStudio.php
 soap/SoapError.php
-LICENSE.txt
 cron.php
 phpcs.xml
 install.log
