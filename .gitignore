@@ -10,7 +10,7 @@ cache/*
 upload/*
 !upload/index.html
 # Ignore some files and directories from the custom directory.
-custom/
+#custom/
 custom/history/*
 custom/blowfish/*
 custom/modulebuilder/*
@@ -106,7 +106,7 @@ tests/_output/*
 BrowserStackLocal
 browserstack.err
 cache/
-custom/**/
+#custom/**/
 .sass-cache/
 
 # Ignore testing environment
