@@ -13677,7 +13677,6 @@ data/Relationships/EmailAddressRelationship.php
 ical_server.php
 HandleAjaxCall.php
 soap.php
-README.md
 vcal_server.php
 adminer.php
 config_override.php
