@@ -2,6 +2,9 @@
 
 [Github](https://github.com/SidorkinAlex/scheduled_reports_from_user) | 
 [package download](https://github.com/SidorkinAlex/scheduled_reports_from_user/releases/download/1.00/customRun_scheduled_reports.zip) |
+
+[donate](https://money.yandex.ru/to/4100115729786878)
+
 ## Case
 
 When creating reports on a schedule for reports in which the owner is listed as the current user SuiteCRM generates and sends a report from the Admin(id=1) to the mail.
