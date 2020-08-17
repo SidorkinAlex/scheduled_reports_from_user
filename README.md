@@ -15,7 +15,7 @@ This package allows you to photograph the report individually for each user when
 * install This packege
 * Run Administration -> Repair -> Quick Repair and Rebuild
 
-##Using
+## Using
 
 To generate a report on a schedule in the body of the letter individually for each specified user, you must select checkbox Run individually for each user.
 
