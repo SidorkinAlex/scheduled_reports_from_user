@@ -9,7 +9,7 @@
 
 When creating reports on a schedule for reports in which the owner is listed as the current user SuiteCRM generates and sends a report from the Admin(id=1) to the mail.
 This package allows you to photograph the report individually for each user when sending it by mail.
-![alt exempel](https://downloader.disk.yandex.ru/preview/1d9f579dd891062cb2777235e2517a6cebd056977fb625723fdfa99054fd4086/5f3a6ff7/oTzhr_qnQWaS1b6seIU3UFoCe-bp2B5nUOZ2_MvCDvGKUWxG2_LCbaZZ5txmFQP97cRKbiGb12WVu7U7e0Ejiw==?uid=0&filename=screenshot-0.0.0.0-2020.08.17-09_59_14+%281%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=1150865922&size=800x800)
+![alt exempel](https://previews.dropbox.com/p/thumb/AA4cZgrlBf0mEyIO4n6epQixKnd6I6TnQnsDjhVSpD5mPlTCseGFRMrQwVkuHD24thtd60tdSXUGRxADNp_zeiOcW7GSR2ZB33LyIIc2VPIjVEahCbmbhOso2zKBiYUFY7Q0lRXUBubM-kot_kJhMqKFS506kWmxvhXCzxV58urc6XfeTT7Qx0T-XqJXmzX7lDAkeA3S-bnAIUPHvgCh8J0C5bBO0kLrpRl12M8UZFvzynlGnicJ7iWS6g5u7xb_H8JugsKdd_Y0e2jJDrT_jL99w5QkhXqcnngUY1mzVSwG1GUJ3tA9HKNduJn55vlnVS2iIDKvFB5E5KP9KCFMd7VaUnTacvnkesq2-eth30JJaQ/p.png?fv_content=true&size_mode=5)
 ![alt exempel](https://downloader.disk.yandex.ru/preview/bed8e2dafdc57803c7388b4c31e7f311cdf4a25ec63a58e276ae81f3d37430e2/5f3a6b17/q23fRa3bujPrOUKirmnDUQ1rxxz5ijdeBI0y_Pv0NK1G8zBQj-jXoi0VRAHnGLZz818hmzQgdCI_Qt5xtsi4Zg==?uid=0&filename=screenshot-0.0.0.0-2020.08.17-09_59_14.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=1150865922&size=400x400)
 
 ## Install
